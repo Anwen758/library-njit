@@ -25,9 +25,9 @@ Android用户（我的安卓是MIUI12.5需要获取root权限才可安装CA证�
 
 **2. 修改参数**
 
-随便用个文本软件打开[index.py] 把刚刚获得的[wechatSESS\_ID] [SERVERID]，填入到对应位置[两个引号里边]  
+随便用个文本软件打开[index.py] 把刚刚获得的[wechatSESS_ID] [SERVERID]，填入到对应位置[两个引号里边]  
 
-修改你想要的自习室、和座位号[seat_room] [seat_where] [email]  
+修改你想要的自习室、和座位号[seat_room] [seat_where] [email]等参数  
 
 
 **3. 接下来部署腾讯云，进行定时任务(选择5min运行一次)**
@@ -38,11 +38,11 @@ Android用户（我的安卓是MIUI12.5需要获取root权限才可安装CA证�
 
 不清楚[SERVERID]的存活时间，第3步设置五分钟一次心跳可以保活几天不用修改
 
-目前修改一次cookie可以做到连占四天座位
+目前修改一次cookie可以做到连占几天的座位
 
 有新的解决方案我会及时更新，先去复习高数了[狗头]  
 
-目前建议周日和周四更新一下cookie  
+目前最好一周更新两次cookie，稳一点
 ---
 ## 注意
 
